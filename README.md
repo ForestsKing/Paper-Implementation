@@ -28,3 +28,4 @@
 | 025  | Informer           | Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting | [Link](https://github.com/ForestsKing/TSF-Library)         |
 | 026  | TimesNet           | TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis | [Link](https://github.com/ForestsKing/TSF-Library)         |
 | 027  | MemStream          | MemStream:Memory-Based Streaming Anomaly Detection           | [Link](https://github.com/ForestsKing/MemStream)           |
+| 028  | FedAvg             | Communication-Efficient Learning of Deep Networks from Decentralized Data | [Link](https://github.com/ForestsKing/FedAvg)              |
