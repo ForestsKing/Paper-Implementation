@@ -31,3 +31,4 @@
 | 027 | MemStream          | MemStream:Memory-Based Streaming Anomaly Detection                                                           | [Link](https://github.com/ForestsKing/MemStream)           |
 | 028 | FedAvg             | Communication-Efficient Learning of Deep Networks from Decentralized Data                                    | [Link](https://github.com/ForestsKing/FedAvg)              |
 | 029 | DCdetector         | DCdetector: Dual Attention Contrastive Representation Learning for Time Series Anomaly Detection             | [Link](https://github.com/ForestsKing/DCdetector)          |
+| 030 | SimSiam            | Exploring Simple Siamese Representation Learning                                                             | [Link](https://github.com/ForestsKing/SimSiam)             |
