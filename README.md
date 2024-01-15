@@ -35,3 +35,4 @@
 | 031 | SimCLR             | A Simple Framework for Contrastive Learning of Visual Representations                                        | [Link](https://github.com/ForestsKing/SupCon)              |
 | 032 | SupCon             | Supervised Contrastive Learning                                                                              | [Link](https://github.com/ForestsKing/SupCon)              |
 | 033 | LLMTIME            | Large Language Models Are Zero-Shot Time Series Forecasters                                                  | [Link](https://github.com/ForestsKing/LLMTIME)             |
+| 035 | GraFITi            | GraFITi: Graphs for Forecasting Irregularly Sampled Time Series                                              | [Link](https://github.com/ForestsKing/GraFITi)             |
